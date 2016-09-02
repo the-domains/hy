@@ -1,16 +1,16 @@
-typography_spectrum: 0.7372712988872081
+layout_spectrum: 0.7924401473719627
+typography_spectrum: 0.6562899239361286
 color:
-  brandStrength: 0.8928715332876891
-  lightness: 0.6136195380240679
-  saturation: 0.7591321363579482
-  rhythmicContrast: 0.1881648360285908
+  brandStrength: 0.9557484351098537
+  lightness: 0.0691366468090564
+  saturation: 0.5382837180513889
+  rhythmicContrast: 0.009862147504463792
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.4169510828796774
+    - '#C5AF97'
+    - '#383330'
+    - '#3DEED9'
+    - '#796D65'
+    - '#9C8B7D'
 name: Hy
 navigation:
   - name: 27 Travel Gadgets That Are Too Cool To Resist | Travel Away
