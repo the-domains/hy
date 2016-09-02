@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-16T03:56:52.584Z'
+datePublished: '2016-08-31T06:37:17.220Z'
 sourcePath: >-
   _posts/2016-04-15-27-travel-gadgets-that-are-too-cool-to-resist-or-travel-away.md
 inFeed: true
-isBasedOnUrl: 'http://travelaway.me/cool-travel-gadgets/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - buy
   - travelers
@@ -28,7 +27,7 @@ author:
   - name: Greg
     url: 'http://www.thetinmill.com'
     avatar: {}
-dateModified: '2016-08-16T03:56:51.850Z'
+dateModified: '2016-08-31T06:37:16.771Z'
 title: 27 Travel Gadgets That Are Too Cool To Resist | Travel Away
 app_links: []
 publisher:
@@ -47,6 +46,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: 27-travel-gadgets-that-are-too-cool-to-resist-or-travel-away/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
